@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "84fc754bb65117f2d61782657847c603",
+      "css": "leftarrow",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M298.4 0L250 0 0 501.6 250 1001.6 300 1003.1 50 495.3 298.4 0Z",
+        "width": 300
+      },
+      "search": [
+        "leftarrow"
+      ]
+    },
+    {
+      "uid": "27650c08776be2e467cbc5fa45d65efb",
+      "css": "rightarrow",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M50-0.8L0 0 250 501.6 0 1001.6 50 1003.1 300 495.3 50-0.8Z",
+        "width": 300
+      },
+      "search": [
+        "rightarrow"
+      ]
+    }
+  ]
+}
